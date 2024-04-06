@@ -50,3 +50,4 @@ else:
     r,h = map(int, input("Enter radius and hight : ").split())
     print(f"Area of cone : {Cone_Area(r,s)}")
     print(f"Volume of cone : {Cone_Volume(r,h)}")
+
